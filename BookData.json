@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "Thought Catalog",
+      "author": "Agatha Christie",
+      "image": "https://images.unsplash.com/photo-1515098506762-79e1384e9d8e?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "review": "A captivating mystery that introduces the brilliant detective Hercule Poirot.",
+      "totalPages": 296,
+      "rating": 4.5,
+      "category": "Mystery",
+      "tags": ["Suspense", "Detective"],
+      "publisher": "John Lane",
+      "yearOfPublishing": 1920
+    },
+    {
+      "bookId": 2,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://images.unsplash.com/photo-1521123845560-14093637aa7d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "review": "A dystopian novel that explores the dangers of totalitarianism.",
+      "totalPages": 328,
+      "rating": 4.8,
+      "category": "Dystopian",
+      "tags": ["Political", "Futuristic"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 3,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://images.unsplash.com/photo-1592496431122-2349e0fbc666?q=80&w=1512&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "review": "A profound novel that deals with serious issues like racial injustice.",
+      "totalPages": 281,
+      "rating": 4.7,
+      "category": "Classic",
+      "tags": ["Drama", "Coming-of-Age"],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://images.unsplash.com/photo-1633477189729-9290b3261d0a?q=80&w=1444&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "review": "A story of love and tragedy set in the Roaring Twenties.",
+      "totalPages": 218,
+      "rating": 4.3,
+      "category": "Novel",
+      "tags": ["American Classic", "Romance"],
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 5,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://images.unsplash.com/photo-1612969308146-066d55f37ccb?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "review": "A timeless romance that also satirizes society of the Georgian era.",
+      "totalPages": 432,
+      "rating": 4.6,
+      "category": "Romance",
+      "tags": ["British Literature", "Satire"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://plus.unsplash.com/premium_photo-1681488290603-2d461cf4d72d?q=80&w=1429&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "review": "An epic fantasy adventure that precedes the events of The Lord of the Rings.",
+      "totalPages": 310,
+      "rating": 4.8,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Epic"],
+      "publisher": "George Allen & Unwin",
+      "yearOfPublishing": 1937
+    }
+  ]
+  
